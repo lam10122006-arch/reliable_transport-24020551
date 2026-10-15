@@ -1,0 +1,2 @@
+# Local Windows / Python 3.14 environment. The course VM specifies Scapy 2.4.0.
+scapy==2.8.0
